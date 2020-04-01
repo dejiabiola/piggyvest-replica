@@ -124,6 +124,7 @@ button {
   padding: 1rem;
   background: rgb(237, 242, 247);
   border-radius: 0.5rem;
+  margin-top: 6px;
 }
 
 select {
