@@ -6,4 +6,4 @@ This project was given to me by start.ng. The objective of this project was to u
 
 ## How to View Project
 
-This project is published on github pages here []
+This project is published on github pages here [https://dejiabiola.github.io/piggyvest-replica/]
